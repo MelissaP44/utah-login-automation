@@ -1,0 +1,22 @@
+.gradle
+
+bin
+
+Reports
+
+Libs
+
+output
+
+!output/.gitkeep
+build
+
+.classpath
+
+.project
+
+.cache
+
+# Excluir archivos de datos (credenciales)
+Data Files/*.dat
+Data Files/*.xlsx
