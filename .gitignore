@@ -17,6 +17,7 @@ build
 
 .cache
 
-# Excluir archivos de datos (credenciales)
-Data Files/*.dat
-Data Files/*.xlsx
+# No subir credenciales reales
+
+Data Files/*real*.xlsx
+Data Files/*prod*.xlsx
